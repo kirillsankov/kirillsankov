@@ -45,14 +45,14 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 🎓 Pollify — Educational Full Stack Web Application for Creating and Managing Polls
 
 - Users can register, create polls, vote, and view detailed statistics.
-- Authentication with JWT, email confirmation, password reset, AI-powered poll result summaries.
+- JWT authentication, email confirmation, password reset, AI poll generation.
 - Asynchronous jobs via BullMQ + Redis. Styled with SCSS. Fully typed with TypeScript.
 
 🔗 Links:
 - Backend (NestJS, MongoDB, Redis, Docker):  
   https://github.com/kirillsankov/pollify-back
 - Frontend (React + TS + Redux + Router + SCSS):  
-  Coming soon (private or in progress)
+  https://github.com/kirillsankov/pollify-front
 
 ---
 
