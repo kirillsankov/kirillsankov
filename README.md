@@ -53,6 +53,8 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
   https://github.com/kirillsankov/pollify-back
 - Frontend (React + TS + Redux + Router + SCSS):  
   https://github.com/kirillsankov/pollify-front
+- Live link 
+  https://polls-ai.ru
 
 ---
 
