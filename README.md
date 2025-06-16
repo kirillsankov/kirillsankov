@@ -11,6 +11,7 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 - Vue.js (Vue 3 + Composition API) / Pinia
 - TypeScript
 - React Router
+- PrimeReact
 - TanStack React Form
 - Sass / SCSS
 - Responsive & Semantic Layout
@@ -20,6 +21,9 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 - Node.js (Express) / NestJS
 - MongoDB + Mongoose
 - Redis / BullMQ (for queues)
+- WebSockets (Socket.IO / native)
+- REST API design
+- Microservices architecture
 - JWT / Passport / bcrypt
 - Nodemailer / Handlebars (emails)
 - class-validator / class-transformer
@@ -47,13 +51,14 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 - Users can register, create polls, vote, and view detailed statistics.
 - JWT authentication, email confirmation, password reset, AI poll generation.
 - Asynchronous jobs via BullMQ + Redis. Styled with SCSS. Fully typed with TypeScript.
+- Real-time features powered by WebSockets. Backend follows modular architecture.
 
 🔗 Links:
 - Backend (NestJS, MongoDB, Redis, Docker):  
   https://github.com/kirillsankov/pollify-back
 - Frontend (React + TS + Redux + Router + SCSS):  
   https://github.com/kirillsankov/pollify-front
-- Live link 
+- Live link  
   https://polls-ai.ru
 
 ---
