@@ -10,9 +10,6 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 - React / Redux Toolkit
 - Vue.js (Vue 3 + Composition API) / Pinia
 - TypeScript
-- React Router
-- PrimeReact
-- TanStack React Form
 - Sass / SCSS
 - Responsive & Semantic Layout
 - PageSpeed Optimization
@@ -26,8 +23,6 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 - Microservices architecture
 - JWT / Passport / bcrypt
 - Nodemailer / Handlebars (emails)
-- class-validator / class-transformer
-- @nestjs/schedule (cron jobs)
 
 ### DevOps & Tools
 - Docker / Docker Compose
@@ -37,6 +32,7 @@ Full Stack Web Developer with a strong foundation in modern JavaScript/TypeScrip
 - DNS configuration & domain management
 - Postman (API testing)
 - REST API / HTTP
+- Linux
 
 ### CMS & Site Builders
 - WordPress / PHP
